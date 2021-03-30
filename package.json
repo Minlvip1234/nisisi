@@ -1,0 +1,23 @@
+{
+  "name": "nisisi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sjsd.js",
+  "dependencies": {
+    "hbs": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minlvip1234/nisisi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minlvip1234/nisisi/issues"
+  },
+  "homepage": "https://github.com/Minlvip1234/nisisi#readme"
+}
